@@ -98,12 +98,12 @@ echo "Relative save location:" $relativeSaveLocation
 echo "DNS Url:" $dnsUrl
 
 #get the acr repository id to tag image with.
-ACR_ID=`az acr list -g $resourceGroupName --query "[].{acrLoginServer:loginServer}" --output json | jq .[].acrLoginServer | sed 's/\"//g'`
+ACR_ID=`az acr list -g $resourceGroupName --query "[].{acrLoginServer:loginServer}" --output tsv`
 
 echo "ACR ID: "$ACR_ID
 
 #Get the acr admin password and login to the registry
-acrPassword=$(az acr credential show -n $registryName -o json | jq -r '[.passwords[0].value] | .[]')
+acrPassword=$(az acr credential show -n $registryName -o tsv --query "passwords[0].value")
 
 docker login $ACR_ID -u $registryName -p $acrPassword
 echo "Authenticated to ACR with username and password"
