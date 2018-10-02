@@ -16,6 +16,7 @@ https://dev.azure.com/hacker60185/coffee-devops
 
 ## Jenkins Info
 http://jenkinsopenhackgpx5.westeurope.cloudapp.azure.com:8080/
+02a8d9fbd581480899fd39cb067280ba
 
 TODO:
 
