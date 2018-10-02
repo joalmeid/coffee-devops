@@ -5,7 +5,7 @@ Coffee Devops Openhack @ Amsterdam
 https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
 
 ## Team Emails
- - cedric.duluard@vinci-energies.com
+ - cedric.duluard@vinci-energies.com , i live in Le Mans
  - elyan.lanvin@vinci-energies.com
  - mimott@microsoft.com
  - Andreas.Heumaier@microsoft.com
