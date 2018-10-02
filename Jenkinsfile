@@ -5,7 +5,7 @@ pipeline {
     stage('build-poi') {
       when { branch 'backend/api-poi' }
       steps {
-        sh 'az login --service-principal -u $AZURE_CLIENT_ID -p $AZURE_CLIENT_SECRET -t $AZURE_TENANT_ID'
+        azCommands('servicePrincipalId', ['az login --service-principal -u $AZURE_CLIENT_ID -p $AZURE_CLIENT_SECRET -t $AZURE_TENANT_ID'])
         sh "cd src/apis/poi && /bin/bash -x build.sh -b Debug -r openhackgpx5rg -t api-poi -s ../../../.. -d example.com -n coffee -g openhackgpx5acr"
       }
     }
