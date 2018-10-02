@@ -11,6 +11,12 @@ https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
  - Andreas.Heumaier@microsoft.com
  - kinek88@gmail.com
 
+## Azure DevOps Info
+https://dev.azure.com/hacker60185/coffee-devops
+
+## Jenkins Info
+TODO:
+
 ## Team Open hack Login
 74497-07618-26@skillmeup.com
 Password123
