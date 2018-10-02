@@ -15,6 +15,8 @@ https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
 https://dev.azure.com/hacker60185/coffee-devops
 
 ## Jenkins Info
+http://jenkinsopenhackgpx5.westeurope.cloudapp.azure.com:8080/
+
 TODO:
 
 ## Team Open hack Login
