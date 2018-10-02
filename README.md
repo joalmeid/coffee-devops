@@ -9,7 +9,7 @@ https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
  - elyan.lanvin@vinci-energies.com
  - mimott@microsoft.com
  - Andreas.Heumaier@microsoft.com
- - kinek88@gmail.com
+ - k.biernat@orangegames.com
 
 ## Azure DevOps Info
 https://dev.azure.com/hacker60185/coffee-devops
