@@ -8,7 +8,7 @@ cedric.duluard@vinci-energies.com
 elyan.lanvin@vinci-energies.com
 mimott@microsoft.com
 Andreas.Heumaier@microsoft.com
-kinek88@gmail.com
+k.biernat@orangegames.com
 
 # Team
 74497-07618-26@skillmeup.com
@@ -28,4 +28,4 @@ Hacker Four :: hacker4@OTAPRD246ops.onmicrosoft.com
 Hacker Five :: hacker5@OTAPRD246ops.onmicrosoft.com
 Hacker Six :: hacker6@OTAPRD246ops.onmicrosoft.com :: *X!nTNml8{o4
 
-OpenHack credentials are here: http://40.115.39.218:2018/teamfiles.zip with zip password --P3mqyfWQ29tNqB%J8eo5wE%y6a99BV 
+OpenHack credentials are here: http://40.115.39.218:2018/teamfiles.zip with zip password --P3mqyfWQ29tNqB%J8eo5wE%y6a99BV
