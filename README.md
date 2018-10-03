@@ -1,5 +1,6 @@
 # coffee-devops
 Coffee Devops Openhack @ Amsterdam
+Quick change
 
 # SLACK
 https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
