@@ -12,7 +12,7 @@ https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
  - k.biernat@orangegames.com
 
 ## Azure DevOps Info
-https://dev.azure.com/hacker60185/coffee-devops
+https://dev.azure.com/hacker60185/coffee-devops.
 
 ## Jenkins Info
 http://jenkinsopenhackgpx5.westeurope.cloudapp.azure.com:8080/
