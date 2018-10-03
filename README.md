@@ -1,5 +1,6 @@
 # coffee-devops
 Coffee Devops Openhack @ Amsterdam
+Quick change to trigger a build
 
 # SLACK
 https://amsdevopsopenhack.slack.com/messages/DD5135ZPW/
