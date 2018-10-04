@@ -1,0 +1,7 @@
+organization=joalmeid-github
+projectKey=joalmeid_coffee-devops
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.17063
+dashboardUrl=https://sonarcloud.io/dashboard?id=joalmeid_coffee-devops
+ceTaskId=AWY6nWR_HR8j8dJrYelS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWY6nWR_HR8j8dJrYelS
